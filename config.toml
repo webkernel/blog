@@ -1,5 +1,5 @@
 baseurl = "https://paulopinto.xyz/"
-title = "Diário de Sombras"
+title = "PAULOPINTO.XYZ"
 theme = "ghostwriter"
 languageCode = "en-us"
 copyright = "Paulo Pinto"
@@ -28,8 +28,8 @@ copyright = "Paulo Pinto"
 [Params]
     mainSections = ["post"]
     intro = true
-    headline = "DIÁRIO DE SOMBRAS"
-    description = "e outras luzes"
+    headline = "PAULOPINTO.XYZ"
+    description = "trazer de volta a velha Internet"
     writeup = "jjj"
     github = "https://github.com/webkernel"
     # gitlab = "https://gitlab.com/XXX"
