@@ -69,7 +69,7 @@ copyright = "Paulo Pinto"
     url = "https://paulo-pinto.com/closetohome"
     weight = 3
 
-[menu.main]]
+[[menu.main]]
     name = "Replies"
     url = "https://paulopinto.xyz/reply.html"
     weight = 4
