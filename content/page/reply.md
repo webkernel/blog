@@ -6,6 +6,7 @@ description = "Replies"
 draft = "false"
 +++
 
+<!doctype html>
 <meta charset="utf-8">
 <title>Reply to Aaron</title>
 <body>
