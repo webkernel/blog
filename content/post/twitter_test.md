@@ -17,5 +17,5 @@ draft: false
 
 Este é um post de teste de cross-posting para o Twitter, através do bridgy! 
 ________
-TESTE
+TESTE de Twitter!!!
 
