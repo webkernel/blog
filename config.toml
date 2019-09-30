@@ -71,7 +71,7 @@ copyright = "Paulo Pinto"
 
 [[menu.main]]
     name = "Replies"
-    url = "https://paulopinto.xyz/reply.html"
+    url = "/page/reply/"
     weight = 4
 
 [[menu.main]]
