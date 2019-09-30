@@ -5,8 +5,6 @@ author = "Paulo Pinto"
 description = "Paulo Pinto"
 +++
 
-{{ partial "header.html" . }}
-<!doctype html>
 <meta charset="utf-8">
 <title>Reply to Aaron</title>
 <body>
