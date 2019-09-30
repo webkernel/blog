@@ -9,14 +9,14 @@ draft = false
 <title>Hello World</title>
 <body>
 
-<article class="h-entry">
+<!-- <article class="h-entry">
     <div class="e-content p-name">Your First Webmention.</div>
       
 <a class="u-url" href="https://paulopinto.xyz/page/replies/">
     Published <time class="dt-published">2019-09-30 20:15:00+0100</time>
 </a>
   </article>
-  <br>
+  <br> -->
 
 <div class="h-entry">
         <div class="u-author h-card">
