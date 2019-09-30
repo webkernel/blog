@@ -8,9 +8,10 @@ draft: false
   <div class="e-content p-name">Test2.</div>
 
   <a class="u-url" href="https://paulopinto.xyz/2019/09/25/test2/">
-    Published <time class="dt-published">2019-09-30 15:16:52+0000</time>
+    Published <time class="dt-published">2019-09-25 19:42:50+01:00</time>
   </a>
 </article>
+<br>
 
-teste 2
+Este é um post de teste que se chama Test2.
 
