@@ -15,5 +15,5 @@ draft: false
 
 <a href="https://brid.gy/publish/twitter"></a>
 
-Este é um post de teste de cross-posting para o Twitter.
+Este é um post de teste de cross-posting para o Twitter, através do bridgy!
 
