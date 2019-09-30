@@ -26,7 +26,7 @@ draft = false
         <p>in reply to: <a class="u-in-reply-to" href="https://aaronparecki.com/2018/06/30/11/your-first-webmention">@aaronpk</a></p>
         <p class="e-content">Paulo Pinto is trying out this guide to sending webmentions</p>
         <p>
-          <a href="https://aaronpk.com/reply.html" class="u-url">
+          <a href="https://paulopinto.xyz/page/resposta/" class="u-url">
             <time class="dt-published" datetime="2019-09-30T20:15:00+0100">September 30, 2019</time>
           </a>
         </p>
