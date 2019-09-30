@@ -14,4 +14,4 @@ description = "Revistas"
 
 **Revista GUIMARÃES - Cidade Vísivel (Cultura e Património) - Câmara Municipal de Guimarães**
 
-[#1](/revistas/1GUIMARAES_WEB.pdf) --> [#2](/revistas/2GUIMARAES_WEB.pdf) --> [#3](/revistas/3GUIMARAES_WEB.pdf) --> [#4](/revistas/4GUIMARAES_WEB.pdf) --> [#5](/revistas/5GUIMARAES_WEB.pdf)
+[#1](https://paulo-pinto.com/downloads/1GUIMARAES_WEB.pdf) --> [#2](https://paulo-pinto.com/downloads/2GUIMARAES_WEB.pdf) --> [#3](https://paulo-pinto.com/downloads/3GUIMARAES_WEB.pdf) --> [#4](https://paulo-pinto.com/downloads/4GUIMARAES_WEB.pdf) --> [#5](https://paulo-pinto.com/downloads/5GUIMARAES_WEB.pdf)
