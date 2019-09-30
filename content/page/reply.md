@@ -2,7 +2,7 @@
 title = "Replies"
 date = 2019-09-30T19:00:00Z
 author = "Paulo Pinto"
-description = "Paulo Pinto"
+description = "Replies"
 +++
 
 <meta charset="utf-8">
@@ -16,7 +16,7 @@ description = "Paulo Pinto"
     <p>in reply to: <a class="u-in-reply-to" href="https://aaronparecki.com/2018/06/30/11/your-first-webmention">@aaronpk</a></p>
     <p class="e-content">Trying out this guide to sending webmentions</p>
     <p>
-        <a href="https://paulopinto.xyz/reply.html" class="u-url">
+        <a href="https://paulopinto.xyz/page/reply/" class="u-url">
           <time class="dt-published" datetime="2019-09-30T19:00:00+0000">September 30, 2019</time>
         </a>
       </p>
