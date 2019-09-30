@@ -24,7 +24,7 @@ draft = false
           <a href="https://paulopinto.xyz/" class="u-url p-name">Paulo Pinto</a>
         </div>
         <p>in reply to: <a class="u-in-reply-to" href="https://aaronparecki.com/2018/06/30/11/your-first-webmention">@aaronpk</a></p>
-        <p class="e-content">Paulo Pinto is trying out this guide to sending webmentions</p>
+        <p class="e-content">Hi Aaron. How can I show replies to my posts on my Hugo static website? 73 de CT1ETE</p>
         <p>
           <a href="https://paulopinto.xyz/page/resposta/" class="u-url">
             <time class="dt-published" datetime="2019-09-30T20:15:00+0100">September 30, 2019</time>
