@@ -1,16 +1,18 @@
----
-title: "Replies"
-date: 2019-09-30T19:00:56+01:00
-draft: false
----
++++
+title = "Replies"
+date = 2019-09-30T19:00:00Z
+author = "Paulo Pinto"
+description = "Paulo Pinto"
++++
 
+{{ partial "header.html" . }}
 <!doctype html>
 <meta charset="utf-8">
 <title>Reply to Aaron</title>
 <body>
   <div class="h-entry">
     <div class="u-author h-card">
-      <img src="img/eu.jpg" class="u-photo" width="40">
+      <img src="/img/eu.jpg" class="u-photo" width="40">
       <a href="https://paulopinto.xyz/" class="u-url p-name">Paulo Pinto</a>
     </div>
     <p>in reply to: <a class="u-in-reply-to" href="https://aaronparecki.com/2018/06/30/11/your-first-webmention">@aaronpk</a></p>
