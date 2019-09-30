@@ -70,11 +70,6 @@ copyright = "Paulo Pinto"
     weight = 3
 
 [[menu.main]]
-    name = "Replies"
-    url = "/replies/"
-    weight = 4
-
-[[menu.main]]
     name = "Autor"
     url = "/page/about/"
-    weight = 5
+    weight = 4
