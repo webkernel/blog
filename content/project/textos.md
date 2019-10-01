@@ -41,3 +41,6 @@ description = "Textos"
 [A inevitabilidade dualista da relação corpo/mente](/textos/inevitabilidade_dualista.pdf)
 <br>
 [Viagem ao interior do nada](/textos/viagem_interior_nada.pdf)
+<br>
+[A comunicação no sistema de rede: um novo paradigma](/textos/comunicacao_rede.pdf)
+<br>
