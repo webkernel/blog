@@ -1,6 +1,4 @@
 [submodule "themes/ghostwriter"]
 	path = themes/ghostwriter
 	url = https://github.com/webkernel/ghostwriter.git
-[submodule "ghostwriter"]
-	path = ghostwriter
-	url = https://github.com/webkernel/ghostwriter.git
+
