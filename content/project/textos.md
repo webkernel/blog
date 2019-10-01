@@ -44,3 +44,4 @@ description = "Textos"
 <br>
 [A comunicação no sistema de rede: um novo paradigma](/textos/comunicacao_rede.pdf)
 <br>
+<br>
