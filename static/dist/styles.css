@@ -219,7 +219,7 @@ table tr { border-bottom: 1px dotted #666; }
  .site-title a { float: none; }
  .site-title + .button-square { margin-left: 0; }
  /* .site-nav-item { display: none; } */
- .site-nav-item { display: inline-block; margin: 15px 0; }
+ .site-nav-item { display: block; }
  .doticn { display: inline; }
  .post-header { margin-bottom: 20px; padding-bottom: 20px; }
  .post-header p { word-wrap: break-word; overflow-wrap: break-word; }
