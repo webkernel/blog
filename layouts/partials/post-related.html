@@ -1,6 +1,6 @@
 <p style="align: center; content: none; margin : 10px auto 0; width: 200px; border-bottom: 1px dotted !important;"/>
 <header class="post-header"></header>
-<h1 style = "margin: 20px 0 5px 0; color: #0366d6;" class="post-description" itemprop="description">Another Post for You </h1>
+<h1 style = "margin: 20px 0 5px 0; color: #0366d6;" class="post-description" itemprop="description">Outro Artigo </h1>
 {{$posts := where ($.Site.GetPage "section" "post").Pages "UniqueID" "!= " .UniqueID }}
 {{ range (shuffle $posts | first 1) }}
 	<div class="post-stub">
