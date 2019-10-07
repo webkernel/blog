@@ -12,8 +12,24 @@
         {{ end }}
     </ol>
 
+
+   <!--  <ol class="post-list">
+        {{ $pag := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
+        {{ range $pag.Pages }}
+            {{ partial "post-stub.html" . }}
+        {{ end }}
+    </ol> -->
+
+
+    <!-- <ol class="post-list">
+        {{ $pag := where .Data.Pages "type" "post" }}
+        {{ range (shuffle $pag | first 2) }}
+            {{ partial "post-stub.html" . }}
+        {{ end }}
+    </ol> -->
+
     <div class="post-navigation">
-        {{ partial "pagination.html" . }}
+    {{ partial "pagination.html" . }}
     </div>
 </div>
 

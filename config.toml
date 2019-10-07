@@ -51,6 +51,7 @@ copyright = "Paulo Pinto"
     highlightJsUrl = ""
     highlightJsLocalUrl = ""
 
+
 [Permalinks]
     post = "/:year/:month/:day/:filename/"
 
