@@ -1,6 +1,6 @@
 +++
 title = "Ernesto Castro"
-description = "um filósofo analítico, historiador amador, jornalista cultural, economista político." 
+description = "Um filósofo analítico, historiador amador, jornalista cultural, economista político." 
 date = 2019-09-25T19:42:00+01:00
 toc = "true"
 # menu = "main" 
@@ -14,7 +14,7 @@ categories = [ "filosofia", ]
 
 ![Ernesto Castro](/img/ernesto_castro.png)
 
-No seu [perfil](https://twitter.com/ernest_castro) do Twitter, Ernesto Castro refere-se a si próprio como sendo um filósofo analítico, historiador amador, jornalista cultural, economista político, e porque não qualquer outra coisa? Guarda tudo que publica na sua página pessoal, em [ernestocastro.tumblr.com](http://ernestocastro.tumblr.com/).
+Um filósofo analítico, historiador amador, jornalista cultural, economista político. É assim que Ernesto Castro se refere a si próprio no seu [perfil](https://twitter.com/ernest_castro) do Twitter.E porque não qualquer outra coisa? Guarda tudo que publica na sua página pessoal, em [ernestocastro.tumblr.com](http://ernestocastro.tumblr.com/).
 
 Nasceu em Madrid, há 28 anos (1990). Estudou na Universidad Autónoma de Madrid e dá aulas de História das ideias estéticas e do pensamento na Universidad Complutense de Madrid. É autor de *Realismo poscontinental* (imprensa), *El Trap* (2019), *Un palo al agua: ensayos de estética* (Murcia, 2016) e *Contra la postmodernidad* (Barcelona, 2011). Coordenou *El arte de la indignación* (Salamanca, 2012) e *Bizarro* (Salamanca, 2010). Colaborou em *Indignación y rebeldía* (Madrid, 2013), *Humanismo-animalismo* (Madrid, 2012) e *Red-acciones* (Valladolid, 2010).
 

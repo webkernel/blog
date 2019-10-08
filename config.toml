@@ -65,10 +65,10 @@ copyright = "Paulo Pinto"
     url = "/project/"
     weight = 2
 
-#[[menu.main]]
-#    name = "Fotografia"
-#    url = "https://paulo-pinto.com/closetohome"
-#    weight = 3
+[[menu.main]]
+    name = "Fotografia"
+    url = "https://paulo-pinto.com/closetohome"
+    weight = 3
 
 #[[menu.main]]
 #    name = "Replies"
