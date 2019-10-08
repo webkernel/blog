@@ -6,6 +6,8 @@ description = "Paulo Pinto"
 toc = "true"
 +++
 
+<IMG SRC="/img/eu_indieweb.jpg" ALIGN="right" width="200" height="350" style="margin:20px">
+
 # Quem sou?
 
 Bem-vindos! O meu nome é Paulo Pinto. 
