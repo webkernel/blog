@@ -2,7 +2,7 @@
 title = "Publicações"
 date = 2015-04-03T02:13:51Z
 author = "Paulo Pinto"
-description = " Revistas"
+description = "-Revistas"
 +++
 
 ## Formato PDF
