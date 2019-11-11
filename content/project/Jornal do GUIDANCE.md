@@ -2,14 +2,14 @@
 title = "Publicações"
 date = 2015-04-03T02:13:55Z
 author = "Paulo Pinto"
-description = "Jornal do GUIDANCE"
+description = "-Jornal do GUIDANCE"
 +++
 
 ## Formato PDF
 __________
 **GUIDANCE - Festival de Dança Contemporânea de Guimarães - 2011**
 
-[ADT - Be Yourself](/guidance/ADT_BeYourself.pdf) 
+[ADT - Be Yourself](/guidance/ADT_BeYourself.pdf)
 <br>
 [Amélia Bentes - Mapa Corpo](/guidance/AmeliaBentes_MapaCorpo.pdf)
 <br>
@@ -26,7 +26,7 @@ ____________
 
 **GUIDANCE - Festival de Dança Contemporânea de Guimarães - 2012**
 
-[Les Ballets C de la B - Au Delà](/guidance/LesBalletsCdelaB_AuDela.pdf) 
+[Les Ballets C de la B - Au Delà](/guidance/LesBalletsCdelaB_AuDela.pdf)
 <br>
 [Sofia Dias & Vítor Roriz - Um gesto que não passa de uma ameaça](/guidance/SofiaDiasVitorRoriz_UmGestoQueNaoPassaDeUmaAmeaca.pdf)
 <br>
@@ -45,7 +45,7 @@ ______________
 
 **GUIDANCE - Festival de Dança Contemporânea de Guimarães - 2013**
 
-[ADT - Proximity](/guidance/ADT_Proximity.pdf) 
+[ADT - Proximity](/guidance/ADT_Proximity.pdf)
 <br>
 [François Chaignaud & Cecilia Bengolea - Twerk](/guidance/FrancoisChaignaudCeciliaBengolea_Twerk.pdf)
 <br>
@@ -64,7 +64,7 @@ _________________
 
 **GUIDANCE - Festival de Dança Contemporânea de Guimarães - 2014**
 
-[Jonas Lopes - Matilda Carlota](/guidance/JonasLopes_MatildaCarlota.pdf) 
+[Jonas Lopes - Matilda Carlota](/guidance/JonasLopes_MatildaCarlota.pdf)
 <br>
 [Clara Andermatt - Fica No Singelo](/guidance/ClaraAndermatt_FicaNoSingelo.pdf)
 <br>

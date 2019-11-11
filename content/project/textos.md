@@ -2,7 +2,7 @@
 title = "Publicações"
 date = 2015-04-03T02:14:00Z
 author = "Paulo Pinto"
-description = "Textos"
+description = "-Textos"
 +++
 
 [Teoria Estética da Pintura de Paul Klee](/textos/Estetica_Paul_Klee.pdf)
