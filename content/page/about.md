@@ -10,9 +10,9 @@ toc = "true"
 
 # Quem sou?
 
-Bem-vindos! O meu nome é Paulo Pinto. 
+Bem-vindos! O meu nome é Paulo Pinto.
 
-Interesso-me por Filosofia, História da Arte, Estética da Arte, Cibercultura, Literatura, Banda Desenhada, [Fotografia](https://paulo-pinto.com/closetohome), Música, Astronomia, [Radioamadorismo](https://ct1ete.xyz), entre outros temas. <br> 
+Interesso-me por Filosofia, História da Arte, Estética da Arte, Cibercultura, Literatura, Banda Desenhada, [Fotografia](https://paulo-pinto.com/closetohome), Música, Astronomia, [Radioamadorismo](https://ct1ete.xyz), entre outros temas. <br>
 <br>Podem entrar em contacto comigo através do [Twitter](https://twitter.com/w3bk3rn3l) ou clicando no símbolo de e-mail no topo da página.
 
 Neste site, encontrarão um conjunto de materiais que entendi disponibilizar online.
@@ -55,7 +55,7 @@ SPIRA - Seminário Internacional **"Comunicar Património"**<br>
 <br>
 **1988-2011**<br> Programação e Análise - Centro de Informática - [Grupo Somelos](https://www.somelos.pt)
 <br>
-**2012**<br>Coeditor da revista GUIMARÃES (Guimarães 2012 - Capital Europeia da Cultura) - 2012
+**2012**<br>Coeditor da revista GUIMARÃES (Guimarães 2012 - Capital Europeia da Cultura)
 <br>
 **2012-2013**<br> Produção/Edição/Revisão de conteúdos - Guimarães 2012 Capital Europeia de Cultura
 <br>
@@ -64,6 +64,3 @@ SPIRA - Seminário Internacional **"Comunicar Património"**<br>
 **2015-2016**<br> Editor da revista GUIMARÃES - CIDADE VíSIVEL - [Câmara Municipal de Guimarães](https://cm-guimaraes.pt)
 <br>
 **2017-presente**<br> Gabinete de Comunicação - [Câmara Municipal de Guimarães](https://cm-guimaraes.pt)
-
-
-
