@@ -1,6 +1,6 @@
 +++
 title = "Publicações"
-date = 2015-04-03T02:13:50Z
+date = 2015-04-03T02:13:51Z
 author = "Paulo Pinto"
 description = " Revistas"
 +++
