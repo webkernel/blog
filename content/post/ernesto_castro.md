@@ -1,9 +1,9 @@
 +++
 title = "Ernesto Castro"
-description = "Um filósofo analítico, historiador amador, jornalista cultural, economista político." 
+description = "Um filósofo analítico, historiador amador, jornalista cultural, economista político."
 date = 2019-09-25T19:42:00+01:00
 toc = "true"
-# menu = "main" 
+# menu = "main"
 # refs = "https://gohugo.io/getting-started/quick-start/"
 # imgsrc = "https://w3bk3rn3l.xyz/uploads/2019/6217c80988.jpg"
 draft = "false"
@@ -16,7 +16,7 @@ categories = [ "filosofia", ]
 
 Um filósofo analítico, historiador amador, jornalista cultural, economista político. É assim que Ernesto Castro se refere a si próprio no seu [perfil](https://twitter.com/ernest_castro) do Twitter.E porque não qualquer outra coisa? Guarda tudo que publica na sua página pessoal, em [ernestocastro.tumblr.com](http://ernestocastro.tumblr.com/).
 
-Nasceu em Madrid, há 28 anos (1990). Estudou na Universidad Autónoma de Madrid e dá aulas de História das ideias estéticas e do pensamento na Universidad Complutense de Madrid. É autor de *Realismo poscontinental* (imprensa), *El Trap* (2019), *Un palo al agua: ensayos de estética* (Murcia, 2016) e *Contra la postmodernidad* (Barcelona, 2011). Coordenou *El arte de la indignación* (Salamanca, 2012) e *Bizarro* (Salamanca, 2010). Colaborou em *Indignación y rebeldía* (Madrid, 2013), *Humanismo-animalismo* (Madrid, 2012) e *Red-acciones* (Valladolid, 2010).
+Nasceu em Madrid há 28 anos (1990). Estudou na Universidad Autónoma de Madrid e dá aulas de História das ideias estéticas e do pensamento na Universidad Complutense de Madrid. É autor de *Realismo poscontinental* (imprensa), *El Trap* (2019), *Un palo al agua: ensayos de estética* (Murcia, 2016) e *Contra la postmodernidad* (Barcelona, 2011). Coordenou *El arte de la indignación* (Salamanca, 2012) e *Bizarro* (Salamanca, 2010). Colaborou em *Indignación y rebeldía* (Madrid, 2013), *Humanismo-animalismo* (Madrid, 2012) e *Red-acciones* (Valladolid, 2010).
 
 Ernesto Castro é um pensador contemporâneo que olha para os filósofos clássicos com a desconfiança própria de quem vê a filosofia como uma mundividência necessária à compreensão do mundo que nos rodeia. Todas as suas aulas são carregadas no [Youtube](https://www.youtube.com/user/holamellamololillo), e estão disponíveis em qualquer lugar e a qualquer momento. É um admirador de Trap.
 
@@ -35,7 +35,7 @@ _______________
 
 Lo de la disputa entre la emoción y la razón, con todo el respeto del mundo para quien formula la pregunta, me parece una parida.
 
- 
+
 
 **PP:** ¿Cómo crees que podemos incentivar a los jóvenes a estudiar filosofía? ¿Cómo lo haces, subiendo las clases a YouTube?
 
@@ -43,9 +43,8 @@ Lo de la disputa entre la emoción y la razón, con todo el respeto del mundo pa
 
 Lo que yo he descubierto subiendo vídeos a YouTube es que en internet hay miles de personas dispuestas a ver clases nada pedagógicas de una hora y media de duración sobre filósofos infinitamente más secundarios y abstrusos que Ortega y Gasset. Lo que es siempre un poema, aunque estés hablando de C. Tangana, son las caras de los matriculados en el aula. No hay que acabar con las lecciones magistrales, como proponen sofísticamente los psicopedagogos; son necesarias más y mejores lecciones magistrales, pero tal vez no impartidas presencialmente. En la era de la comunicación digital, yo reservaría las clases presenciales para aquellas tareas que necesariamente requiriesen de la participación física del alumnado.
 
- 
+
 
 **PP:** Hay la idea de que la Filosofía sólo sirve un componente teórico y que, en el mundo laboral, poca utilidad tiene. ¿Cómo convencer a alguien de lo contrario?
 
 **EC:** No tiene ningún sentido convencerles de lo contrario. *Lasciate ogni speranza, o voi ch’entrate*.
-
