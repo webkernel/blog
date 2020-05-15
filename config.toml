@@ -1,6 +1,6 @@
 baseurl = "https://paulopinto.xyz/"
 title = "PAULOPINTO.XYZ"
-theme = "ghostwriter"
+theme = "liva"
 languageCode = "en-us"
 copyright = "Paulo Pinto"
 #disqusShortname = "XXX"
