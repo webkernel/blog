@@ -1,6 +1,6 @@
-logoText = "Zzo"
+logoText = "paulopinto.xyz"
 logoType = "short" # long, short
-description = "The Zzo theme for Hugo example site."
+description = "Guimarães iPhonegraph Project."
 custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
@@ -42,14 +42,14 @@ talksGroupByDate = "2006"
 pubPaginate = 20
 
 # whoami
-myname = "zzossig"
-email = "zzossig@gmail.com"
-whoami = "Web Developer"
+myname = "Paulo Pinto"
+email = "zzzzzzz@gmail.com"
+whoami = "Photographer"
 bioImageUrl = ""
 useGravatar = false
-location = "Seoul, Korea"
+location = "Guimarães, Portugal"
 organization = "Hugo"
-link = "https://zzossig.io/ko"
+link = "https://paulopinto.xyz/"
 
 # sidebar
 enableBio = true
