@@ -1,6 +1,6 @@
-logoText = "Zzo"
+logoText = "paulopinto.xyz"
 logoType = "short" # long, short
-description = "The Zzo theme for Hugo example site."
+description = "Guimarães iPhonegraph Project."
 custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
@@ -42,14 +42,14 @@ talksGroupByDate = "2006"
 pubPaginate = 20
 
 # whoami
-myname = "zzossig"
+myname = "Paulo Pinto"
 email = "zzossig@gmail.com"
-whoami = "Web Developer"
+whoami = "Photographer"
 bioImageUrl = ""
 useGravatar = false
-location = "Seoul, Korea"
-organization = "Hugo"
-link = "https://zzossig.io/ko"
+location = "Guimarães, Portugal"
+organization = "CMG"
+link = "https://paulopinto.xyz/"
 
 # sidebar
 enableBio = true
@@ -125,7 +125,7 @@ commento = false
   appKey = '你的appKey'
   notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
   verify = false # Verification code
-  avatar = 'mm' 
+  avatar = 'mm'
   placeholder = '说点什么吧...'
   visitor = false
 
@@ -145,9 +145,9 @@ commento = false
 [socialOptions]
   email = "mailto:your@email.com"
   phone = ""
-  facebook = "http://example.org/"
-  twitter = "http://example.org/"
-  github = "https://github.com/zzossig/hugo-theme-zzo"
+  facebook = ""
+  twitter = "http://twitter.com/w3bk3rn3l"
+  github = "https://github.com/webkernel"
   stack-overflow = ""
   instagram = ""
   google-plus = ""
@@ -176,7 +176,7 @@ commento = false
 
 [donationOptions]
   enable = false
-  alipay = "" 
+  alipay = ""
   wechat = ""
   paypal = ""
   patreon = ""
