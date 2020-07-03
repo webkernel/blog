@@ -2,5 +2,5 @@
 	path = themes/hugrid
 	url = https://github.com/aerohub/hugrid.git
 [submodule "themes/meme"]
-		path = themes/meme
-		url = https://github.com/reuixiy/hugo-theme-meme.git
+	path = themes/meme
+	url = https://github.com/reuixiy/hugo-theme-meme.git
