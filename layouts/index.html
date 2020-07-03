@@ -1,34 +1,25 @@
-{{ define "title" }}{{ .Site.Title }}{{ end }}
-
-{{ define "main" }}
-<main class="main inner" data-sidebar-position="{{ $.Param "sidebarPosition" }}">
-    <div class="list__main {{ if $.Param "enableSidebar" }}{{ if eq ($.Param "sidebarPosition") "left" }}mr{{ else }}lm{{ end }}{{ else }}lmr{{ end }}">
-        <div class="summary__container" data-display="block">
-            {{ $filteredPages := .Site.RegularPages }}
-            {{ range $.Param "notAllowedTypesInHome" }}
-                {{ $filteredPages = (where $filteredPages "Type" "!=" (lower .)) }}
-            {{ end }}
-            {{ $filteredPagesPinned := slice }}
-            {{ if .Site.Params.enablePinnedPosts }}
-                {{ $filteredPagesPinned = (where $filteredPages "Params.pinned" "==" true) }}
-            {{ end }}
-            {{ $filteredPages := $filteredPages | intersect (where $filteredPages "Params.pinned" "!=" true) }}
-            {{ $filteredPages := $filteredPages | union ($filteredPagesPinned) }}
-            {{ $paginator := .Paginate $filteredPages }}
-            {{ range $paginator.Pages }}
-                {{ .Render "summary" }}
-            {{ end }}
-            {{ partial "pagination/pagination" . }}
-        </div>
-        {{ partial "search/search-result-desktop" . }}
-    </div>
-
-    {{ if $.Param "enableSidebar" }}
-        <aside class="list__sidebar {{ if eq ($.Param "sidebarPosition") "left" }}l{{ else }}r{{ end }}" data-dir="{{ $.Param "languagedir" | default "ltr" }}">
-            {{ partial "sidebar/sidebar-home" . }}
-        </aside>
-    {{ end }}
-</main>
-{{ partial "script/sidebar-script" . }}
-{{ partial "script/home-script" . }}
-{{ end }}
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+	<head>
+	{{ partial "head.html" . }}
+	{{ template "_internal/google_analytics.html" . }}
+	</head>
+	<body>
+		<div class="container">	
+				{{ partial "header.html" . }}
+			<div class="main">
+				<ul id="og-grid" class="og-grid">
+					{{ range $.Site.Data.items.items }}
+					<li>
+						<a href="{{.url}}" data-largesrc="{{.image}}" data-title="{{.title}}" data-description="{{.description }}" data-buttontext="{{.buttontext}}">
+							<img src="{{.thumb}}" alt="{{.alt}}"/>
+						</a>
+					</li>
+					{{ end }}
+				</ul>
+				{{ partial "footer.html" . }}
+			</div>
+		</div>
+		{{ partial "scripts.html" . }}
+	</body>
+</html>
