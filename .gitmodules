@@ -1,9 +1,1 @@
-[submodule "themes/ghostwriter"]
-	path = themes/ghostwriter
-	url = https://github.com/webkernel/ghostwriter.git
-[submodule "themes/zzo"]
-	path = themes/zzo
-	url = https://github.com/zzossig/hugo-theme-zzo.git
-[submodule "themes/meme"]
-	path = themes/meme
-	url = https://github.com/reuixiy/hugo-theme-meme.git
+
